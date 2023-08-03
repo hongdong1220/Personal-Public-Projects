@@ -12,4 +12,4 @@ This program uses the API provided from [Alpha Vantage](https://www.alphavantage
 * Created by Hong Dong
 * Latest Modified Day: 08/09/2020
 
-The code may or may not work as Alpha Vantage changes their API calls
+The code may or may not work as Alpha Vantage changes their API
